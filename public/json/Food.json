@@ -1,0 +1,62 @@
+[
+    {
+      "id" : 1,
+      "src" : "./img/food1.png",
+      "title" : "Pork bibimbab / 제육덮밥",
+      "description" : "매콤달콤한 제육덮밥",
+      "price" : "12.99"
+
+    },
+
+    {
+      "id" : 2,
+      "src" : "./img/food2.png",
+      "title" : "Fishcake soup / 오뎅탕",
+      "description" : "얼큰한 오뎅탕",
+      "price" : "12.99"
+
+    },
+
+    {
+      "id" : 3,
+      "src" : "./img/food3.png",
+      "title" : "Kimchi friedrice / 김치볶음밥",
+      "description" : "인생 김치볶음밥",
+      "price" : "12.99"
+
+    },
+
+    {
+      "id" : 4,
+      "src" : "./img/food4.png",
+      "title" : "Pork cutlet / 돈가스",
+      "description" : "옛날 경양식 돈가스",
+      "price" : "12.99"
+
+    },
+    {
+      "id" : 5,
+      "src" : "./img/food5.png",
+      "title" : "Ddeockbbokie / 떡볶이",
+      "description" : "매콤함의 정석 떡볶이",
+      "price" : "12.99"
+
+    },
+    {
+      "id" : 6,
+      "src" : "./img/food6.png",
+      "title" : "Special Kimbab set / 스페셜 김밥세트",
+      "description" : "3가지 맛의 스페셜 김밥세트",
+      "price" : "22.99"
+
+    },
+    {
+      "id" : 7,
+      "src" : "./img/food7.png",
+      "title" : "Special Cheese Kimbab set / 모짜렐라 김밥세트",
+      "description" : "모짜렐라 치즈 김밥세트",
+      "price" : "22.99"
+
+    }
+
+]
